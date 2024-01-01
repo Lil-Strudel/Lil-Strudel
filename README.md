@@ -1,24 +1,8 @@
-<h2 align="left">Oi (•◡•) / <br> I'm Aaron Santo</h2>
+<h2 align="left">Ahoy (•◡•) / <br> I'm Aaron (Lil-Strudel)</h2>
 
 ###
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lil-Strudel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lil-Strudel&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lil-Strudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lil-Strudel/Lil-Strudel/output/snake.svg" alt="Snake animation" />
+<p>I absolutely love seeing what cool things people have built!</p>
 
 ###
 
@@ -95,6 +79,26 @@
   <img width="2" />
   <img src="https://img.shields.io/badge/nx-143055?logo=nx&logoColor=white&style=for-the-badge" height="30" alt="nx logo"  />
 </div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Lil-Strudel/Lil-Strudel/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lil-Strudel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lil-Strudel&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lil-Strudel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 
 ###
 
