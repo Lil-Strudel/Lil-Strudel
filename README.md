@@ -2,7 +2,7 @@
 
 ###
 
-<p>I absolutely love seeing what cool things people have built!</p>
+<p>I love seeing what cool things people have built!</p>
 
 ###
 
