@@ -177,6 +177,10 @@
   <img width="2" />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
   <img width="2" />
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" height="30" alt="solid logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="30" alt="svelte logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
