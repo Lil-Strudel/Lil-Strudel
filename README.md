@@ -44,8 +44,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="30" alt="mariadb logo"  />
 </div>
 
 <h4 align="left">Infrastructure</h4>
@@ -55,15 +53,9 @@
   <img width="2" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
   <img width="2" />
-  <img src="https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=black&style=for-the-badge" height="30" alt="k3s logo"  />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="30" alt="rabbitmq logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
 </div>
 
 <h4 align="left">Tools</h4>
