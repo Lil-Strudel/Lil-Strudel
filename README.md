@@ -1,13 +1,21 @@
-<img src=".github/assets/ahoi.svg" alt="Ahoi! I'm Aaron (Lil-Strudel), a full-stack dev and DevOps engineer" width="100%">
+# Ahoi! I'm Aaron
 
-<img src=".github/assets/deck.svg" alt="Above deck, full-stack: TypeScript, SolidJS, React, Next.js, Svelte, Astro, Tailwind, Go, Node, Postgres, Redis and more. Below deck, DevOps: Talos Linux on bare metal, Kubernetes, Cilium, Flux, Rook-Ceph, MikroTik and Terraform, AWS, Pulumi and Docker." width="100%">
+Full-stack dev and DevOps engineer, also known as Lil-Strudel.
+
+### Above deck
+
+Full-stack. Mostly TypeScript and Go, usually SolidJS or React in front of Postgres.
+
+### Below deck
+
+DevOps. I run Kubernetes on bare metal at home, with everything from the nodes to the router's VLANs kept in git. When something has to live in the cloud, it goes on AWS with Terraform.
 
 ### What I'm building
 
-- **[homelab](https://github.com/Lil-Strudel/homelab)**: bare-metal Kubernetes declared from the metal up, Talos and Flux to MikroTik. [Read the book →](https://lil-strudel.github.io/homelab/)
-- **[GlassAct Studios](https://github.com/Lil-Strudel/glassact-studios)**: ordering platform for custom stained-glass inlays. Go API, SolidJS app, Astro site, Terraform on AWS.
-- **[ChekkPoint](https://github.com/Lil-Strudel/ChekkPoint)**: offline-first race timing that keeps working when the cell signal doesn't. TanStack Start, Drizzle, Electric.
-- **[discord-audio-streamer](https://github.com/Lil-Strudel/discord-audio-streamer)**: Go + Wails desktop app that pipes any audio into a Discord voice channel.
+- **[homelab](https://github.com/Lil-Strudel/homelab)**: my bare-metal Kubernetes cluster, declared from the metal up. [Read the book →](https://lil-strudel.github.io/homelab/)
+- **[GlassAct Studios](https://github.com/Lil-Strudel/glassact-studios)**: ordering platform for custom stained-glass inlays.
+- **[ChekkPoint](https://github.com/Lil-Strudel/ChekkPoint)**: offline-first race timing that keeps working when the cell signal doesn't.
+- **[discord-audio-streamer](https://github.com/Lil-Strudel/discord-audio-streamer)**: desktop app that pipes any audio into a Discord voice channel.
 - **[.dotfiles](https://github.com/Lil-Strudel/.dotfiles)**: my whole Arch + Hyprland machine, hand-rolled.
 
 <picture>
