@@ -1,4 +1,4 @@
-<img src=".github/assets/ahoi.svg" alt="Ahoi! I'm Aaron (Lil-Strudel), a full-stack dev and DevOps engineer in Utah" width="100%">
+<img src=".github/assets/ahoi.svg" alt="Ahoi! I'm Aaron (Lil-Strudel), a full-stack dev and DevOps engineer" width="100%">
 
 <img src=".github/assets/deck.svg" alt="Above deck, full-stack: TypeScript, SolidJS, React, Next.js, Svelte, Astro, Tailwind, Go, Node, Postgres, Redis and more. Below deck, DevOps: Talos Linux on bare metal, Kubernetes, Cilium, Flux, Rook-Ceph, MikroTik and Terraform, AWS, Pulumi and Docker." width="100%">
 
