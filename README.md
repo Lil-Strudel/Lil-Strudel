@@ -1,20 +1,18 @@
-<img src=".github/assets/ahoi.svg" alt="Ahoi! I'm Aaron (Lil-Strudel), a DevOps engineer in Utah" width="100%">
+<img src=".github/assets/ahoi.svg" alt="Ahoi! I'm Aaron (Lil-Strudel), a full-stack dev and DevOps engineer in Utah" width="100%">
 
-### The homelab
+<img src=".github/assets/deck.svg" alt="Above deck, full-stack: TypeScript, SolidJS, React, Next.js, Svelte, Astro, Tailwind, Go, Node, Postgres, Redis and more. Below deck, DevOps: Talos Linux on bare metal, Kubernetes, Cilium, Flux, Rook-Ceph, MikroTik and Terraform, AWS, Pulumi and Docker." width="100%">
 
-Six OptiPlex Micros, a MikroTik network and an R730xd NAS, all declared in Git. Talos for the OS, Flux for everything in the cluster, Terraform for the network.
+### What I'm building
 
-<a href="https://github.com/Lil-Strudel/homelab"><img src=".github/assets/homelab.svg" alt="kubectl get nodes showing three makima control-plane nodes and three rem workers, next to the stack: Talos, Cilium BGP, kube-vip, Rook-Ceph, Flux and Terraform for RouterOS" width="100%"></a>
+- **[homelab](https://github.com/Lil-Strudel/homelab)**: bare-metal Kubernetes declared from the metal up, from Talos and Flux to the MikroTik network. [Read the book →](https://lil-strudel.github.io/homelab/)
+- **[GlassAct Studios](https://github.com/Lil-Strudel/glassact-studios)**: ordering platform for custom stained-glass inlays. Go API, SolidJS app, Astro site, Terraform on AWS.
+- **[ChekkPoint](https://github.com/Lil-Strudel/ChekkPoint)**: offline-first race timing that keeps working when the cell signal doesn't. TanStack Start, Drizzle, Electric.
+- **[discord-audio-streamer](https://github.com/Lil-Strudel/discord-audio-streamer)**: Go + Wails desktop app that pipes any audio into a Discord voice channel.
+- **[.dotfiles](https://github.com/Lil-Strudel/.dotfiles)**: my whole Arch + Hyprland machine, hand-rolled.
 
-**[Repo](https://github.com/Lil-Strudel/homelab)** · **[Read the book →](https://lil-strudel.github.io/homelab/)**
-
-### Also building
-
-- **[.dotfiles](https://github.com/Lil-Strudel/.dotfiles)**: my whole Arch + Hyprland machine, hand-rolled. Every line has to earn its place.
-- **[GlassAct Studios](https://github.com/Lil-Strudel/glassact-studios)**: ordering platform for custom stained-glass inlays. Go, SolidJS, Terraform on AWS.
-- **[discord-audio-streamer](https://github.com/Lil-Strudel/discord-audio-streamer)**: pipe files, YouTube links or any audio device into a Discord voice channel.
-- **[ChekkPoint](https://github.com/Lil-Strudel/ChekkPoint)**: offline-first race timing for aid stations.
-
-<img src="https://raw.githubusercontent.com/Lil-Strudel/Lil-Strudel/output/rollout.svg" alt="My last year of GitHub contributions drawn as a Kubernetes rollout, one pod per day" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lil-Strudel/Lil-Strudel/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Lil-Strudel/Lil-Strudel/output/snake-light.svg" alt="A snake eating my GitHub contribution graph" width="100%">
+</picture>
 
 <p align="center"><a href="https://lilstrudel.io">lilstrudel.io</a></p>

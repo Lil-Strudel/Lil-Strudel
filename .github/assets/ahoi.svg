@@ -36,11 +36,11 @@
 </g>
 </g>
 <text class="in" style="animation-delay:1.3s" x="48" y="220" font-size="24" fill="#c5c9c5">I'm Aaron <tspan fill="#a292a3">(Lil-Strudel)</tspan></text>
-<text class="in" style="animation-delay:1.5s" x="48" y="254" font-size="18" fill="#a6a69c">DevOps engineer by day. Bare-metal Kubernetes nut by night. Utah.</text>
+<text class="in" style="animation-delay:1.5s" x="48" y="254" font-size="18" fill="#a6a69c">Full-stack dev and DevOps engineer. I build the app, then the cluster it runs on.</text>
 
 <text class="in" style="animation-delay:1.9s" x="48" y="304" font-size="18" xml:space="preserve"><tspan fill="#8ea4a2" font-weight="bold">~</tspan><tspan fill="#87a987"> ❯ </tspan></text>
-<text class="type" style="animation-duration:1.04s;animation-delay:1.9s;animation-timing-function:steps(13)" x="48" y="304" font-size="18" xml:space="preserve"><tspan fill-opacity="0" font-weight="bold">~</tspan><tspan fill-opacity="0"> ❯ </tspan><tspan fill="#c5c9c5">cat stack</tspan></text>
-<text class="in" style="animation-delay:3.1s" x="48" y="336" font-size="18" xml:space="preserve"><tspan fill="#8ba4b0">Kubernetes</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#c4b28a">Talos</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#a292a3">Cilium</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#87a987">Flux</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#8ea4a2">Terraform</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#b6927b">AWS</tspan><tspan fill="#625e5a">  ·  </tspan><tspan fill="#c4746e">Go</tspan></text>
+<text class="type" style="animation-duration:1.04s;animation-delay:1.9s;animation-timing-function:steps(13)" x="48" y="304" font-size="18" xml:space="preserve"><tspan fill-opacity="0" font-weight="bold">~</tspan><tspan fill-opacity="0"> ❯ </tspan><tspan fill="#c5c9c5">cat motto</tspan></text>
+<text class="in" style="animation-delay:3.1s" x="48" y="336" font-size="18" xml:space="preserve"><tspan fill="#c4b28a" font-style="italic">"Why rent a cloud when you can build one at home?"</tspan></text>
 
 <g class="in" style="animation-delay:3.4s">
 <text x="48" y="370" font-size="18" xml:space="preserve"><tspan fill="#8ea4a2" font-weight="bold">~</tspan><tspan fill="#87a987"> ❯ </tspan></text>
@@ -50,7 +50,7 @@
 <rect y="390" width="1200" height="30" fill="#0d0c0c" fill-opacity=".85"/>
 <rect y="390" width="80" height="30" fill="#8ba4b0"/>
 <text x="40" y="410" font-size="15" font-weight="bold" text-anchor="middle" fill="#181616">ahoi</text>
-<text x="98" y="410" font-size="15" xml:space="preserve"><tspan fill="#c4b28a" font-weight="bold">1 homelab</tspan><tspan fill="#625e5a">   2 talos   3 flux   4 dotfiles</tspan></text>
+<text x="98" y="410" font-size="15" xml:space="preserve"><tspan fill="#c4b28a" font-weight="bold">1 web</tspan><tspan fill="#625e5a">   2 api   3 cluster   4 metal</tspan></text>
 <text x="1176" y="410" font-size="15" text-anchor="end" fill="#7a8382">lilstrudel.io</text>
 </g>
 </svg>
