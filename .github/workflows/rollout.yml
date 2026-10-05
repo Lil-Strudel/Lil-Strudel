@@ -1,4 +1,4 @@
-name: Generate ultra elevation profile
+name: Generate contributions rollout
 
 on:
   schedule:
@@ -22,12 +22,12 @@ jobs:
         with:
           node-version: lts/*
 
-      - name: Generate ultra.svg
-        run: node scripts/ultra.mjs ${{ github.repository_owner }} dist/ultra.svg
+      - name: Generate rollout.svg
+        run: node scripts/rollout.mjs ${{ github.repository_owner }} dist/rollout.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push ultra.svg to the output branch
+      - name: Push rollout.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
