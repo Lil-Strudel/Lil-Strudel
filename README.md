@@ -15,7 +15,7 @@ DevOps. I run Kubernetes on bare metal at home, with everything from the nodes t
 - **[homelab](https://github.com/Lil-Strudel/homelab)**: my bare-metal Kubernetes cluster, declared from the metal up. [Read the book →](https://lil-strudel.github.io/homelab/)
 - **[GlassAct Studios](https://github.com/Lil-Strudel/glassact-studios)**: ordering platform for custom stained-glass inlays.
 - **[ChekkPoint](https://github.com/Lil-Strudel/ChekkPoint)**: offline-first race timing that keeps working when the cell signal doesn't.
-- **[discord-audio-streamer](https://github.com/Lil-Strudel/discord-audio-streamer)**: desktop app that pipes any audio into a Discord voice channel.
+- **[tsukaiyasui](https://github.com/Lil-Strudel/tsukaiyasui_zmk)**: ZMK keyboard layout loosely inspired by Miryoku, built to port to any board down to a 34-key Corne.
 - **[.dotfiles](https://github.com/Lil-Strudel/.dotfiles)**: my whole Arch + Hyprland machine, hand-rolled.
 
 <picture>
